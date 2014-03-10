@@ -1,0 +1,25 @@
+{
+  "name": "keyboard-code",
+  "version": "0.0.0",
+  "description": "Watches for a defined set of keyboard inputs then fires a callback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MauriceButler/keyboard-code.git"
+  },
+  "keywords": [
+    "keyboard",
+    "code",
+    "konami",
+    "secret"
+  ],
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/keyboard-code/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/keyboard-code"
+}
