@@ -21,12 +21,4 @@ KeyboardCode.prototype.checkCode = function checkCode(event){
     }
 };
 
-KeyboardCode.prototype.cancel = function cancel(){
-    if(window.removeEventListener) {
-        window.removeEventListener("keyup", this.checkCode.bind(this), false);
-    } else {
-        window.removeEvent("onkeyup", this.checkCode.bind(this));
-    }
-};
-
 module.exports = KeyboardCode;
