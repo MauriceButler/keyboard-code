@@ -1,6 +1,6 @@
 {
   "name": "keyboard-code",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Watches for a defined set of keyboard inputs then fires a callback",
   "main": "index.js",
   "scripts": {
